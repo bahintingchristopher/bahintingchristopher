@@ -1,7 +1,7 @@
 Christopher T. Bahinting 
 Full-Stack Web Developer 
 Cebu, Philippines | 09354432178 | bahintingchristopher@gmail.com |
-GitHub | LinkedIn
+GitHub [https://github.com/bahintingchristopher/] | LinkedIn[www.linkedin.com/in/cbahinting]
 
 
 EDUCATION
