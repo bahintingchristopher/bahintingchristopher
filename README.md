@@ -57,7 +57,8 @@ Admin Management System (Node.js/Express
 
 PROFESSIONAL SUMMARY
 Full-Stack Web Developer with a 20-year background in high-precision technical design (AutoCAD) and data management. Recently certified in Software Development by BYU-Idaho. Expert at bridging complex backend logic (Django, Node.js) with pixel-perfect frontend execution (HTML/CSS/JS). Proven track record of 100% data accuracy in high-pressure technical environments.
-EXPERIENCE
+
+EXPERIENCES
 Technical Designer & Data Specialist | National Power Corporation & Energy Development Corporation | 2004 – 2012 |
 •	Precision Engineering: Operated AutoCAD to design complex technical systems, requiring advanced logical thinking and spatial reasoning.
 •	Data Integrity: Managed high-volume data encoding and verification with a focus on zero-error rates and database consistency.
