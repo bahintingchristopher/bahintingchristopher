@@ -42,18 +42,16 @@ Kananga Chamber of Commerce Portal | Live Site: https://bahintingchristopher.git
 • Responsive Web Development: Built a high-performance portfolio using Vanilla JavaScript and CSS3, featuring a dynamic local business directory managed via JSON data.
 • API Implementation & Security: Integrated Open Weather Map API to deliver real-time data and 3-day forecasts, utilizing secure credential management for sensitive API keys.
 
-Full-Stack Auto Commerce Platform 
-| Live Site: https://car-store-sfnj.onrender.com/ | 
-|Admin Portal: https://car-store-sfnj.onrender.com/admin/ | 
-Guest Access: guestonly / guest12345! (Note: Please allow 30s for the free server to wake up)
-• Full-Stack Development: Engineered a backend-driven Django application for vehicle listing management, featuring a custom, responsive CSS3 interface optimized for cross-device user experience.
+Full-Stack 
+| Live Site: https://utilitybill.pythonanywhere.com/ | 
+Electric and Water Billing System
 
 
 Admin Management System (Node.js/Express 
 | Live Site : https://bahintingchristopher.github.io/bahins/ |
 | Admin Portal : https://bahintingchristopher.github.io/bahins/admin/admin.html |
 |Guest Access password: guest1234!
-• Secure API Architecture: Engineered a REST API and real-time dashboard featuring custom middleware for password-protected administrative access and secure message management.
+
 
 PROFESSIONAL SUMMARY
 Full-Stack Web Developer with a 20-year background in high-precision technical design (AutoCAD) and data management. Recently certified in Software Development by BYU-Idaho. Expert at bridging complex backend logic (Django, Node.js) with pixel-perfect frontend execution (HTML/CSS/JS). Proven track record of 100% data accuracy in high-pressure technical environments.
