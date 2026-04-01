@@ -7,7 +7,7 @@ GitHub [https://github.com/bahintingchristopher/] | LinkedIn[www.linkedin.com/in
 EDUCATION
 B.S. in Software Development | BYU-Idaho | Expected 2027 (In Progress)
 
-Web & Computer Programming | BYU-Idaho | Completed 2025
+Web & Computer Programming | BYU-Idaho | Completed 2026
 
 Associate in Computer Programming | Jose Navarro Polytechnic College | Graduated 2004
 
